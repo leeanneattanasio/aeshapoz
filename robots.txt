@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zetheepeer.c6s9.cn/sitemap.xml
